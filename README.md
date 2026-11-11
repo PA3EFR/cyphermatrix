@@ -14,14 +14,11 @@ This is a digital safe designed bij the Plusscouts PA3EFR/J Comms Team. The scre
 
 ## How to Use It
 
-- Examine the matrix and determine which four digits it points to.
+- Examine the lock and determine which four digits it points to.
 
 - Enter those four digits into the input field of the safe.
 
 - Check that the order is correct; for a 4-digit code, the sequence is usually important.
 
-- Confirm the entry. If the code is incorrect, use Reset and try another interpretation of the matrix.
+- Confirm the entry. If the code is incorrect, use Reset and try another interpretation of the lock.
 
-## Important Note
-
-The available information explicitly mentions a 4-digit code, but does not yet include the matrix itself or the rules for extracting digits from it. The matrix text is therefore where you should look for the input; the numeric code is the result that you enter.
