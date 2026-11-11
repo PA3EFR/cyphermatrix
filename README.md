@@ -6,11 +6,11 @@ This is a digital safe designed bij the Plusscouts PA3EFR/J Comms Team. The scre
 
 - Numeric code: A code consisting of exactly 4 digits, entered through the safe interface. This is the direct input that the safe checks.
 
-- Matrix text: The matrix appears to be the source from which you derive the 4 digits. Look for a pattern, sequence, or selection within the matrix that produces exactly four digits.
+- Matrix text: The matrix appears to be the source from which you derive the 4 digits. 
 
-## On-screen buttons: 
+## On-screen buttons at the bottom of the matrix: 
 
-“Reset”, “Pause”, and “Lock” are control buttons, not part of the code itself. Use “Reset” if you want to clear an incorrect entry.
+“Reset”, “Pause”, and “Lock” are control buttons, not part of the code itself. 
 
 ## How to Use It
 
